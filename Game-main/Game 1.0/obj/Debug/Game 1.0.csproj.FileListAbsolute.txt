@@ -1,0 +1,32 @@
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\bin\Debug\Game 1.0.exe.config
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\bin\Debug\Game 1.0.exe
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\bin\Debug\Game 1.0.pdb
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\Game 1.0.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\Game 1.0_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\Game 1.0_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\App.baml
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\Game 1.0.g.resources
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\Game_1._0.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\Game 1.0.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\Game 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\Game 1.0.exe
+C:\Users\Lenovo\Desktop\Game-main\Game 1.0\Game 1.0\obj\Debug\Game 1.0.pdb
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\bin\Debug\Game 1.0.exe.config
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\bin\Debug\Game 1.0.exe
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\bin\Debug\Game 1.0.pdb
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\Game 1.0.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\Game 1.0_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\Game 1.0_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\App.baml
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\Game 1.0.g.resources
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\Game_1._0.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\Game 1.0.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\Game 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\Game 1.0.exe
+C:\Users\Lenovo\Desktop\Game-main\Game-main\Game 1.0\obj\Debug\Game 1.0.pdb

@@ -1,0 +1,150 @@
+﻿<Window x:Class="Game_1._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Game_1._0"
+        mc:Ignorable="d"
+        Title="eTopRGP" 
+        Height="520" 
+        Width="960" 
+        WindowStartupLocation="CenterScreen">
+    <WindowChrome.WindowChrome>
+        <WindowChrome ResizeBorderThickness="7"/>
+    </WindowChrome.WindowChrome>
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="65*"/>
+            <ColumnDefinition Width="145*"/>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="63*"/>
+            <ColumnDefinition Width="223*"/>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="85*"/>
+            <ColumnDefinition Width="172*"/>
+            <ColumnDefinition Width="65*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="16*"/>
+            <RowDefinition Height="75*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="27*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="12*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="34*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="34*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="34*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="71*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.ColumnSpan="9" 
+              Grid.RowSpan="19">
+            <Rectangle>
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" 
+                                         EndPoint="0,1">
+                        <GradientStop Color="#45572D" 
+                                      Offset="0.0" />
+                        <GradientStop Color="#774123" 
+                                      Offset="0.75" />
+                        <GradientStop Color="#573421"
+                                      Offset="1" />
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+        </Grid>
+
+        <Grid Style="{StaticResource BackgroundTop}" 
+              Grid.Column="3" Grid.Row="5" 
+              Grid.ColumnSpan="3" 
+              Grid.RowSpan="13"/>
+
+        <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="9" Grid.RowSpan="2">
+            <TextBlock Style="{StaticResource Logo}"/>
+        </Grid>
+
+        <Grid Grid.ColumnSpan="3" Grid.Column="3" Grid.Row="3" Grid.RowSpan="3">
+            <Image Source="/Images/Logo.jpg"/>
+        </Grid>
+
+        <Grid Grid.Row="6" Grid.Column="4" Grid.RowSpan="2">
+            <TextBlock Style="{StaticResource MenuFont}"/>
+        </Grid>
+
+        <Grid Grid.Row="0" Grid.RowSpan="19" Grid.Column="0">
+            <Image Source="/Images/0sc.jpg"/>
+        </Grid>
+
+        <Grid Grid.Row="0" Grid.RowSpan="19" Grid.Column="8">
+            <Image Source="/Images/0sc.jpg"/>
+        </Grid>
+
+        <Grid Grid.Row="8" Grid.Column="4" Grid.RowSpan="1">
+            <Button Content="Новоя игра" 
+                    Style="{StaticResource MenuBtn}">
+                <Button.Effect>
+                    <DropShadowEffect Color="#A17E4A" 
+                                      Direction="310" 
+                                      ShadowDepth="8" 
+                                      Opacity="0.4"/>
+                </Button.Effect>
+            </Button>
+        </Grid>
+        <Grid Grid.Row="10" Grid.Column="4">
+            <Button Content="Продолжить" 
+                    Style="{StaticResource MenuBtn}">
+                <Button.Effect>
+                    <DropShadowEffect Color="#A17E4A" 
+                                      Direction="310" 
+                                      ShadowDepth="8" 
+                                      Opacity="0.4"/>
+                </Button.Effect>
+            </Button>
+        </Grid>
+        <Grid Grid.Row="12" Grid.Column="4">
+            <Button Content="Командная игра" 
+                    Style="{StaticResource MenuBtn}">
+                <Button.Effect>
+                    <DropShadowEffect Color="#A17E4A" 
+                                      Direction="310" 
+                                      ShadowDepth="8" 
+                                      Opacity="0.4"/>
+                </Button.Effect>
+            </Button>
+        </Grid>
+        <Grid Grid.Row="14" Grid.Column="4">
+            <Button Content="Настройка" 
+                    Style="{StaticResource MenuBtn}">
+                <Button.Effect>
+                    <DropShadowEffect Color="#A17E4A" 
+                                      Direction="310" 
+                                      ShadowDepth="8" 
+                                      Opacity="0.4"/>
+                </Button.Effect>
+            </Button>
+        </Grid>
+        <Grid Grid.Row="16" Grid.Column="4">
+            <Button Content="Выйти" 
+                    Style="{StaticResource MenuBtn}">
+                <Button.Effect>
+                    <DropShadowEffect Color="#A17E4A" 
+                                      Direction="310" 
+                                      ShadowDepth="8" 
+                                      Opacity="0.4"/>
+                </Button.Effect>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>
